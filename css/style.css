@@ -160,7 +160,7 @@ hr {
 	width: 100%;
 	height: auto;
 	padding: 100px 0;
-	text-align: center;
+	text-align: left;
 	color: #fff;
 	background: url(../img/main-boxr.jpg) no-repeat center center fixed;
 	background-color: #000;
@@ -259,7 +259,7 @@ hr {
 /* Services Section */
 #services {
 	padding: 140px 0;
-	background: url(../img/services-bg.jpg);
+	background: url(../img/what.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -428,6 +428,7 @@ img.img-thumbnail.team-img {
 #team .thumbnail {
 	background: transparent;
 	border: 0;
+	align-content: center;
 }
 #team .thumbnail .caption {
 	padding: 9px;
